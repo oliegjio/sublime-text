@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Angular2 HTML Syntax",
+		"Color Highlighter",
+		"ColorPicker",
+		"DocBlockr",
+		"DocBlockr_Python",
+		"Emmet",
+		"FileDiffs",
+		"Jade",
+		"JavaScriptNext - ES6 Syntax",
+		"Laravel Blade Highlighter",
+		"Material Theme",
+		"NASM x86 Assembly",
+		"Package Control",
+		"Pug",
+		"Sass",
+		"TypeScript",
+		"Vue Syntax Highlight"
+	]
+}
