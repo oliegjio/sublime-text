@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Color Highlighter",
+		"ColorPicker",
+		"DocBlockr",
+		"DocBlockr_Python",
+		"Emmet",
+		"FileDiffs",
+		"Jade",
+		"JavaScriptNext - ES6 Syntax",
+		"Laravel Blade Highlighter",
+		"Material Theme",
+		"NASM x86 Assembly",
+		"Package Control",
+		"Pug",
+		"Sass",
+		"Theme - Spacegray",
+		"TypeScript",
+		"Vue Syntax Highlight"
+	]
+}
